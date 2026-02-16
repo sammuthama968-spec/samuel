@@ -14,4 +14,4 @@
 
 ## How to Reach Me
 - Email: sammuthama968@gmail.com
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: https://github.com/sammuthama968-spec/samuel
