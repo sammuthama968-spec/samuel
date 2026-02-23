@@ -1,16 +1,15 @@
-# Heading 1 (largest)
+
 ## Heading 2 My learning goals
 ### Heading 3 This semister
-**bold text**
-*italic text*
-`In this course my gaol is to have full knowledge on how to integrate AI in different systems.`
+
+***In this course my goal is to have full knowledge on how to integrate AI in different systems.***
 
 [Link text]https://github.com/sammuthama968-spec/samuel/new/main
 
-![Alt text]
+list
 - Item one C++
 - Item two Python
-  - Nested item Coding
+- Nested item Coding
 - Item three Javascript
   
 1. First step Python
