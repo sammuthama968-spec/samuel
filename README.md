@@ -10,7 +10,7 @@
 - Python, HTML/CSS, Machine Learning, C++, C, Javascript
 
 ## Current Projects
-- [Project name](link) — short description
+- Introduction to Git and GitHub — Git tools
 
 ## How to Reach Me
 - Email: sammuthama968@gmail.com
